@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning React and JS.
 Do checkout my page at https://eliaspeteri.github.io!
+
+I'm currently looking for a great internship/part-time/full-time employer, who embraces up and coming web developers. You can best reach me through my email, which is available on my website at https://eliaspeteri.github.io. See you there!
