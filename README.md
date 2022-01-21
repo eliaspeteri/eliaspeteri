@@ -22,17 +22,17 @@ I'm currently looking for a great internship/part-time/full-time employer, who e
 My current skillset includes but isn't limited to:
 | Skill | Skill level | Type |
 | :---: | :---: | :---: |
-| Python | Intermediate | Language |
 | JavaScript | Good | Language |
 | TypeScript | Intermediate | Language |
-| Node.js | Intermediate | Framework |
+| Python | Intermediate | Language |
 | React | Good | Framework |
+| Node.js | Intermediate | Framework |
 | Express | Basics | Framework |
 | Next.js | Basics | Framework |
 | MongoDB | Intermediate | Database |
 | PostgreSQL | Basics | Database |
-| Git | Intermediate | Version Control |
 | GitHub | Good | Version Control |
+| Git | Intermediate | Version Control |
 | Bitbucket | Intermediate | Version Control |
 | Jira | Intermediate | Project Management |
 | Confluence | Basics | Documentation |
