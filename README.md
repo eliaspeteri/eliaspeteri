@@ -37,4 +37,4 @@ My current skillset includes but isn't limited to:
 | Jira | Intermediate | Project Management |
 | Confluence | Basics | Documentation |
 
-For concrete code examples, I recommend checking out [this repository](https://github.com/eliaspeteri/library) and [this repository](https://github.com/eliaspeteri/trivia-mestarit), both full stack applications written TypeScript!
+For concrete code examples, I recommend checking out [this repository](https://github.com/eliaspeteri/library) and [this repository](https://github.com/eliaspeteri/trivia-mestarit), both full stack applications written with TypeScript!
