@@ -14,7 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning React and JS.
-Do checkout my page at https://eliaspeteri.github.io!
+🌱 I’m currently learning React, TS and Next.js.
+Do check out my page at https://eliaspeteri.github.io!
 
-I'm currently looking for a great internship/part-time/full-time employer, who embraces up and coming web developers. You can best reach me through my email, which is available on my website at https://eliaspeteri.github.io. See you there!
+I'm currently looking for a great internship/part-time/full-time employer, who embraces up and coming web developers. You can best reach me through my email, which is available on my website at https://eliaspeteri.github.io, or through my LinkedIn at https://linkedin.com/in/eliaspeteri. See you there!
+
+My current skillset includes but isn't limited to:
+| Skill | Skill level | Type |
+| :---: | :---: | :---: |
+| Python | Intermediate | Language |
+| JavaScript | Good | Language |
+| TypeScript | Intermediate | Language |
+| Node.js | Intermediate | Framework |
+| React | Good | Framework |
+| Express | Basics | Framework |
+| Next.js | Basics | Framework |
+| MongoDB | Intermediate | Database |
+| PostgreSQL | Basics | Database |
+| Git | Intermediate | Version Control |
+| GitHub | Good | Version Control |
+| Bitbucket | Intermediate | Version Control |
+| Jira | Intermediate | Project Management |
+| Confluence | Basics | Documentation |
+
+For concrete code examples, I recommend checking out [this repository](https://github.com/eliaspeteri/library) and [this repository](https://github.com/eliaspeteri/trivia-mestarit), both full stack applications written TypeScript!
