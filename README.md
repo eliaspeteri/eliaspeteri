@@ -27,8 +27,8 @@ My current skillset includes but isn't limited to:
 | Python | Intermediate | Language |
 | React | Good | Framework |
 | Node.js | Intermediate | Framework |
+| Next.js | Okay | Framework |
 | Express | Basics | Framework |
-| Next.js | Basics | Framework |
 | MongoDB | Intermediate | Database |
 | PostgreSQL | Basics | Database |
 | GitHub | Good | Version Control |
