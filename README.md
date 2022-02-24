@@ -36,10 +36,13 @@ My current skillset includes but isn't limited to:
 | Git | Intermediate | Version Control | 8 |
 | GitLab | Intermediate | Version Control | 7 |
 | Bitbucket | Intermediate | Version Control | 6 |
+| Docker, Docker Compose | Okay | Containerization | 8 |
 | Agile software development | Intermediate | Project Management | 9 |
 | Software Production | Intermediate | Project Management | 8 |
 | DevOps | Okay | Project Management | 7 |
 | Jira | Intermediate | Project Tracking | 7 |
+| Microsoft Office Suite | Good | Documentation | 7 |
 | Confluence | Basics | Documentation | 7 |
+| Linux | Intermediate | Operating Systems | 8 |
 
 For concrete code examples, I recommend checking out [this repository](https://github.com/eliaspeteri/library) and [this repository](https://github.com/eliaspeteri/trivia-mestarit), both full stack applications written with TypeScript!
