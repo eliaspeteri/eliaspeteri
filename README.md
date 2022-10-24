@@ -24,6 +24,7 @@ My current skillset includes but isn't limited to:
 | :---: | :---: | :---: | :---: |
 | JavaScript | Good | Language | 7 |
 | TypeScript | Intermediate | Language | 8 |
+| Lua | Okay | Language | 8 |
 | Python | Intermediate | Language | 6 |
 | C++ | Rusty | Language | 4 |
 | React | Good | Framework | 7 |
