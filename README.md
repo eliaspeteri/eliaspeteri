@@ -25,6 +25,7 @@ My current skillset includes but isn't limited to:
 | React | Good | Framework | 7 |
 | Node.js | Intermediate | Framework| 8 |
 | Next.js | Okay | Framework | 9 |
+|Nest.js|Basics|Framework|8|
 | Express | Basics | Framework | 8 |
 | MongoDB | Intermediate | Database | 8 |
 | PostgreSQL | Basics | Database | 6 |
@@ -41,4 +42,8 @@ My current skillset includes but isn't limited to:
 | Confluence | Basics | Documentation | 7 |
 | Linux | Intermediate | Operating Systems | 8 |
 
-For concrete code examples, I recommend checking out [this repository](https://github.com/eliaspeteri/library) and [this repository](https://github.com/eliaspeteri/trivia-mestarit), both full stack applications written with TypeScript!
+Projects:
+- [EZ-Compose](https://github.com/eliaspeteri/docker-boilerplate) ([live-version](https://eliaspeteri.github.io/docker-boilerplate/))
+- [Library](https://github.com/eliaspeteri/library)
+- [Plantery](https://github.com/eliaspeteri/plantery)
+- [Ticket system](https://github.com/eliaspeteri/customer-support-backend)
