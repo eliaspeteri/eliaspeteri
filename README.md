@@ -25,12 +25,12 @@ My current skillset includes but isn't limited to:
 | React | Good | Framework | 7 |
 | Node.js | Intermediate | Framework| 8 |
 | Next.js | Okay | Framework | 9 |
-|Nest.js|Basics|Framework|8|
-| Express | Basics | Framework | 8 |
+| Nest.js | Good | Framework | 9 |
+| Express | Good | Framework | 8 |
 | MongoDB | Intermediate | Database | 8 |
 | PostgreSQL | Basics | Database | 6 |
 | GitHub | Good | Version Control | 8 |
-| Git | Intermediate | Version Control | 8 |
+| Git | Good | Version Control | 8 |
 | GitLab | Intermediate | Version Control | 7 |
 | Bitbucket | Intermediate | Version Control | 6 |
 | Docker, Docker Compose | Okay | Containerization | 8 |
