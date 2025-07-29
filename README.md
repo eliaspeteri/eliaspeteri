@@ -36,14 +36,17 @@ My current skillset includes but isn't limited to:
 | Next.js | Okay | Framework |
 | Nest.js | Good | Framework |
 | Express | Good | Framework |
-| PostgreSQL | Good | Database
-| GitHub | Good | Version Control
-| Git | Good | Version Control
-| Docker, Docker Compose | Good | Containerization
-| Agile software development | Intermediate | Project Management
-| Software Production | Intermediate | Project Management
-| DevOps | Okay | Project Management
-| Linux | Intermediate | Operating Systems
+| PostgreSQL | Good | Database |
+| GitHub | Good | Version Control |
+| GitHub Copilot | Good | AI |
+| Git | Good | Version Control |
+| Docker, Docker Compose | Good | Containerization |
+| Agile software development | Intermediate | Project Management |
+| Software Production | Intermediate | Project Management | 
+| DevOps | Okay | Project Management |
+| Linux | Intermediate | Operating Systems |
+| ActiveMQ | Okay | Message brokering |
+| Playwright | Okay | Testing Automation |
 
 Projects:
 - [EZ-Compose](https://github.com/eliaspeteri/docker-boilerplate) ([live-version](https://eliaspeteri.github.io/docker-boilerplate/))
