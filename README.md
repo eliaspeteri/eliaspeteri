@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **eliaspeteri/eliaspeteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Backend & Fullstack Development • Fintech & SaaS • API Integrations • Performance Optimization • CI/CD & DevOps • Technical Documentation
 
 In December 2022 I graduated with a bachelor's degree in Software Engineering with good marks. I started my professional IT career in January 2023, with a backend developer position in fintech.
 
@@ -67,7 +69,12 @@ My current skillset includes but isn't limited to:
 
 Projects:
 - [EZ-Compose](https://github.com/eliaspeteri/docker-boilerplate) ([live-version](https://eliaspeteri.github.io/docker-boilerplate/))
+  - Tech stack: GitHub Pages, Prettier, React 18, Tailwind 3.2, TS 4.9, Vite 4.1
 - [Library](https://github.com/eliaspeteri/library)
+  - Tech stack:  GitHub Pages, Next.js 12, Prettier, React 17, Semantic UI, TS 4.5
 - [Plantery](https://github.com/eliaspeteri/plantery)
+  - Tech stack: CSS3, Formik, JWT, Mongoose, Next.js 12, React 18, TS 4.7
 - [Ticket System](https://github.com/eliaspeteri/customer-support-backend)
+  - Tech stack: Express, Nodemailer, TS 4.9, ValidatorJS
 - [Real Estate Sim](https://github.com/eliaspeteri/real-estate-sim)
+  - Tech stack: ESLint, GitHub Pages, Next.js 15, React 19, TS 5
