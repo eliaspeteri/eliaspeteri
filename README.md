@@ -31,6 +31,7 @@ My current skillset includes but isn't limited to:
 | JavaScript | Good | Language |
 | TypeScript | Good | Language |
 | Python | Intermediate | Language |
+| WebAssembly | Okay | Language |
 | React | Good | Framework |
 | Node.js | Intermediate | Framework |
 | Next.js | Okay | Framework |
@@ -38,13 +39,13 @@ My current skillset includes but isn't limited to:
 | Express | Good | Framework |
 | PostgreSQL | Good | Database |
 | GitHub | Good | Version Control |
-| GitHub Copilot | Good | AI |
 | Git | Good | Version Control |
+| GitHub Copilot | Good | AI |
 | Docker, Docker Compose | Good | Containerization |
 | Agile software development | Intermediate | Project Management |
 | Software Production | Intermediate | Project Management |
-| CircleCI | Good | CI/CD |
 | DevOps | Okay | Project Management |
+| CircleCI | Good | CI/CD |
 | Linux | Intermediate | Operating Systems |
 | ActiveMQ | Okay | Message brokering |
 | Playwright | Okay | Testing Automation |
