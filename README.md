@@ -1,5 +1,3 @@
-# Hi there 👋
-
 _Backend & Fullstack Development • Fintech & SaaS • API Integrations • Performance Optimization • CI/CD & DevOps • Technical Documentation_
 
 ## Where do I come from?
@@ -24,14 +22,19 @@ I have:
 Below are some personal projects:
 - [EZ-Compose](https://github.com/eliaspeteri/docker-boilerplate) ([live-version](https://eliaspeteri.github.io/docker-boilerplate/))
   - Tech stack: GitHub Pages, Prettier, React 18, Tailwind 3.2, TS 4.9, Vite 4.1
+  - Highlights: Lightweight frontend with Vite, dynamic client-side logic for building docker configurations, smart project structuring, focus on usability
 - [Library](https://github.com/eliaspeteri/library)
   - Tech stack:  GitHub Pages, Next.js 12, Prettier, React 17, Semantic UI, TS 4.5
+  - Highlights: FE/BE interactions, solid documentation, separation of concerns, use of styling library
 - [Plantery](https://github.com/eliaspeteri/plantery)
-  - Tech stack: CSS3, Formik, JWT, Mongoose, Next.js 12, React 18, TS 4.7
+  - Tech stack: CSS3, Formik, JWT, MongoDB, Next.js 12, React 18, TS 4.7
+  - Highlights: Login and session management, NoSQL database, modern FE practices, form control with Formik
 - [Ticket System](https://github.com/eliaspeteri/customer-support-backend)
-  - Tech stack: Express, Nodemailer, TS 4.9, ValidatorJS
+  - Tech stack: Express, MongoDB, Nodemailer, TS 4.9, ValidatorJS
+  - Highlights: Validation middleware, email sending, NoSQL, smart documentation
 - [Real Estate Sim](https://github.com/eliaspeteri/real-estate-sim)
   - Tech stack: ESLint, GitHub Pages, Next.js 15, React 19, TS 5
+  - Highlights: Developed heavily with GitHub Copilot agent in a few days, good documentation, a wide set of features, great visuals
  
 ## What can I do?
 
