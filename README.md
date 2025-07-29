@@ -73,9 +73,11 @@ My current skillset includes but isn't limited to:
 
 Contact me via one of these ways (or all of them!)
 
-> elias.peteri+github@hotmail.com
-> 
-> +358 50 435 seven nine four six
+Email: elias.peteri+github@hotmail.com
 
-You may find me working in the Tampere area, or online.
+Phone (work-related inquiries only): +358 50 435 seven nine four six
+
+Location: Tampere area, or online.
+
+LinkedIn: [linkedin.com/in/eliaspeteri](https://www.linkedin.com/in/eliaspeteri)
 
