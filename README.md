@@ -1,25 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**eliaspeteri/eliaspeteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Backend & Fullstack Development • Fintech & SaaS • API Integrations • Performance Optimization • CI/CD & DevOps • Technical Documentation_
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Backend & Fullstack Development • Fintech & SaaS • API Integrations • Performance Optimization • CI/CD & DevOps • Technical Documentation
+## Where do I come from?
 
 In December 2022 I graduated with a bachelor's degree in Software Engineering with good marks. I started my professional IT career in January 2023, with a backend developer position in fintech.
 
-My intention is to build the greatest solutions with best, ethical, sustainable, and agile practices to accelerate business growth, meet customers' needs, and do more good for the world.
+## What are my intentions?
+
+I intend to build the greatest solutions with best, ethical, sustainable, and agile practices to accelerate business growth, meet customers' needs, and do more good for the world.
+
+## What have I done?
 
 I have:
 - reduced a highly used database call's latency ~75 % from 13 seconds to 1,6 seconds by completely rewriting an API service used by our customer support tool. Rewrite included chopping down a single monolithic query into multiple conditionally run queries, as well as adding indexing, moving methods into their own services for maintainability, and refactoring duplicate code into commonly used methods
@@ -29,15 +20,22 @@ I have:
 - suggested now widely used company practices (such as an it support slack channel)
 - improved documentation across several key areas of software development (comments in code, Readme files, GitBook articles, internal and external API documentation with Redocly and OpenAPI)
 
+
+Below are some personal projects:
+- [EZ-Compose](https://github.com/eliaspeteri/docker-boilerplate) ([live-version](https://eliaspeteri.github.io/docker-boilerplate/))
+  - Tech stack: GitHub Pages, Prettier, React 18, Tailwind 3.2, TS 4.9, Vite 4.1
+- [Library](https://github.com/eliaspeteri/library)
+  - Tech stack:  GitHub Pages, Next.js 12, Prettier, React 17, Semantic UI, TS 4.5
+- [Plantery](https://github.com/eliaspeteri/plantery)
+  - Tech stack: CSS3, Formik, JWT, Mongoose, Next.js 12, React 18, TS 4.7
+- [Ticket System](https://github.com/eliaspeteri/customer-support-backend)
+  - Tech stack: Express, Nodemailer, TS 4.9, ValidatorJS
+- [Real Estate Sim](https://github.com/eliaspeteri/real-estate-sim)
+  - Tech stack: ESLint, GitHub Pages, Next.js 15, React 19, TS 5
+ 
+## What can I do?
+
 My expertise is in fintech, SaaS, full-stack, integrations, and web services.
-
-Contact me via one of these ways (or all of them!)
-
-> elias.peteri+github@hotmail.com
-> 
-> +358 50 435 seven nine four six
-
-You may find me working in the Tampere area, or online.
 
 My current skillset includes but isn't limited to:
 | Skill | Skill level (Rusty, Basics, Okay, Intermediate, Good) | Type |
@@ -67,14 +65,14 @@ My current skillset includes but isn't limited to:
 | ActiveMQ | Okay | Message brokering |
 | Playwright | Okay | Testing Automation |
 
-Projects:
-- [EZ-Compose](https://github.com/eliaspeteri/docker-boilerplate) ([live-version](https://eliaspeteri.github.io/docker-boilerplate/))
-  - Tech stack: GitHub Pages, Prettier, React 18, Tailwind 3.2, TS 4.9, Vite 4.1
-- [Library](https://github.com/eliaspeteri/library)
-  - Tech stack:  GitHub Pages, Next.js 12, Prettier, React 17, Semantic UI, TS 4.5
-- [Plantery](https://github.com/eliaspeteri/plantery)
-  - Tech stack: CSS3, Formik, JWT, Mongoose, Next.js 12, React 18, TS 4.7
-- [Ticket System](https://github.com/eliaspeteri/customer-support-backend)
-  - Tech stack: Express, Nodemailer, TS 4.9, ValidatorJS
-- [Real Estate Sim](https://github.com/eliaspeteri/real-estate-sim)
-  - Tech stack: ESLint, GitHub Pages, Next.js 15, React 19, TS 5
+ 
+## How can I be reached?
+
+Contact me via one of these ways (or all of them!)
+
+> elias.peteri+github@hotmail.com
+> 
+> +358 50 435 seven nine four six
+
+You may find me working in the Tampere area, or online.
+
