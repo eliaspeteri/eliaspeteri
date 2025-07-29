@@ -70,17 +70,34 @@ My current skillset includes but isn't limited to:
 
 ## What's my Curriculum Vitae?
 
-### Work
+### 🧑‍💻 Work Experience
 
-2023 - Present -> Sortter Oy, Software Developer
+- **2023–Present**: Software Developer @ **Sortter Oy** (Fintech)
+  - Full-stack development, integrations, performance optimization, DevOps (Docker, Kubernetes, CircleCI, AWS)
 
-2022 -> Commu App, Intern
+- **2022**: Software Developer Intern @ **Commu App**
+  - Created a new page with Next.js for people to upload their steps taken during a walking campaign. Containerized the project with Docker Compose.
 
-### Education
+### 🎓 Education & Certifications
 
-2023 -> AWS Technical Essentials @ Tieturi
+- **2023**: AWS Technical Essentials Certification @ Tieturi
+  - Fundamentals of AWS Cloud services and infrastructure
 
-2018 - 2022 -> Bachelor's degree in Software Engineering @ Tampere University of Applied Sciences
+- **2018–2022**: Bachelor’s degree in Software Engineering @ Tampere University of Applied Sciences
+  - Focus: Software development, Web services, Agile methodologies, Software production
+
+### 🛠️ Skills Summary
+
+TypeScript • JavaScript • Python • Node.js • React • Nest.js • PostgreSQL • Docker • Kubernetes • CircleCI • OpenAPI • GitHub/Git
+
+### 🌍 Languages
+
+- Finnish (native), English (fluent)
+
+### 📍 Location
+
+- Tampere, Finland (open for remote work)
+
  
 ## How can I be reached?
 
