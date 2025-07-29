@@ -14,36 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+In December 2022 I graduated with a bachelor's degree in Software Engineering. I started my professional IT career in January 2023, with a backend developer position in fintech.
+
 My current skillset includes but isn't limited to:
-| Skill | Skill level (Rusty, Basics, Okay, Intermediate, Good) | Type | Interest (4-10) |
-| :---: | :---: | :---: | :---: |
-| JavaScript | Good | Language | 7 |
-| TypeScript | Intermediate | Language | 8 |
-| Lua | Okay | Language | 8 |
-| Python | Intermediate | Language | 6 |
-| C++ | Rusty | Language | 4 |
-| React | Good | Framework | 7 |
-| Node.js | Intermediate | Framework| 8 |
-| Next.js | Okay | Framework | 9 |
-| Nest.js | Good | Framework | 9 |
-| Express | Good | Framework | 8 |
-| MongoDB | Intermediate | Database | 8 |
-| PostgreSQL | Basics | Database | 6 |
-| GitHub | Good | Version Control | 8 |
-| Git | Good | Version Control | 8 |
-| GitLab | Intermediate | Version Control | 7 |
-| Bitbucket | Intermediate | Version Control | 6 |
-| Docker, Docker Compose | Okay | Containerization | 8 |
-| Agile software development | Intermediate | Project Management | 9 |
-| Software Production | Intermediate | Project Management | 8 |
-| DevOps | Okay | Project Management | 7 |
-| Jira | Intermediate | Project Tracking | 7 |
-| Microsoft Office Suite | Good | Documentation | 7 |
-| Confluence | Basics | Documentation | 7 |
-| Linux | Intermediate | Operating Systems | 8 |
+| Skill | Skill level (Rusty, Basics, Okay, Intermediate, Good) | Type |
+| :---: | :---: | :---: |
+| JavaScript | Good | Language |
+| TypeScript | Good | Language |
+| Python | Intermediate | Language |
+| React | Good | Framework |
+| Node.js | Intermediate | Framework |
+| Next.js | Okay | Framework |
+| Nest.js | Good | Framework |
+| Express | Good | Framework |
+| PostgreSQL | Good | Database
+| GitHub | Good | Version Control
+| Git | Good | Version Control
+| Docker, Docker Compose | Good | Containerization
+| Agile software development | Intermediate | Project Management
+| Software Production | Intermediate | Project Management
+| DevOps | Okay | Project Management
+| Linux | Intermediate | Operating Systems
 
 Projects:
 - [EZ-Compose](https://github.com/eliaspeteri/docker-boilerplate) ([live-version](https://eliaspeteri.github.io/docker-boilerplate/))
 - [Library](https://github.com/eliaspeteri/library)
 - [Plantery](https://github.com/eliaspeteri/plantery)
-- [Ticket system](https://github.com/eliaspeteri/customer-support-backend)
+- [Ticket System](https://github.com/eliaspeteri/customer-support-backend)
+- [Real Estate Sim](https://github.com/eliaspeteri/real-estate-sim)
