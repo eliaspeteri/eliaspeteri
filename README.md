@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 In December 2022 I graduated with a bachelor's degree in Software Engineering with good marks. I started my professional IT career in January 2023, with a backend developer position in fintech.
 
+My intention is to build the greatest solutions with best, ethical, sustainable, and agile practices to accelerate business growth, meet customers' needs, and do more good for the world.
+
 Contact me via one of these ways (or all of them!)
 
 > elias.peteri+github@hotmail.com
