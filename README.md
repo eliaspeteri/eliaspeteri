@@ -68,6 +68,19 @@ My current skillset includes but isn't limited to:
 | ActiveMQ | Okay | Message brokering |
 | Playwright | Okay | Testing Automation |
 
+## What's my Curriculum Vitae?
+
+### Work
+
+2023 - Present -> Sortter Oy, Software Developer
+
+2022 -> Commu App, Intern
+
+### Education
+
+2023 -> AWS Technical Essentials @ Tieturi
+
+2018 - 2022 -> Bachelor's degree in Software Engineering @ Tampere University of Applied Sciences
  
 ## How can I be reached?
 
