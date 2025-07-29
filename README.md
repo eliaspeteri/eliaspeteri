@@ -42,7 +42,8 @@ My current skillset includes but isn't limited to:
 | Git | Good | Version Control |
 | Docker, Docker Compose | Good | Containerization |
 | Agile software development | Intermediate | Project Management |
-| Software Production | Intermediate | Project Management | 
+| Software Production | Intermediate | Project Management |
+| CircleCI | Good | CI/CD |
 | DevOps | Okay | Project Management |
 | Linux | Intermediate | Operating Systems |
 | ActiveMQ | Okay | Message brokering |
