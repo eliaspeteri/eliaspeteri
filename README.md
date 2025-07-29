@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-In December 2022 I graduated with a bachelor's degree in Software Engineering. I started my professional IT career in January 2023, with a backend developer position in fintech.
+In December 2022 I graduated with a bachelor's degree in Software Engineering with good marks. I started my professional IT career in January 2023, with a backend developer position in fintech.
+
+Contact me via one of these ways (or all of them!)
+elias.peteri+github@hotmail.com
++358 50 435 seven nine four six
+
+You may find me working in the Tampere area, or online.
 
 My current skillset includes but isn't limited to:
 | Skill | Skill level (Rusty, Basics, Okay, Intermediate, Good) | Type |
