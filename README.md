@@ -20,12 +20,14 @@ In December 2022 I graduated with a bachelor's degree in Software Engineering wi
 My intention is to build the greatest solutions with best, ethical, sustainable, and agile practices to accelerate business growth, meet customers' needs, and do more good for the world.
 
 I have:
-- reduced a highly used database call's latency ~75 % from 13 seconds to 1,6 seconds
-- created multiple new API integrations to different partners, boosting direct money flow
-- launched a new product
-- done most production deployments in my company since hiring (353 and counting)
+- reduced a highly used database call's latency ~75 % from 13 seconds to 1,6 seconds by completely rewriting an API service used by our customer support tool. Rewrite included chopping down a single monolithic query into multiple conditionally run queries, as well as adding indexing, moving methods into their own services for maintainability, and refactoring duplicate code into commonly used methods
+- created and managed multiple new API integrations to different partners (lenders, insurance companies, credit registers), boosting direct money flow
+- launched a new product brokering credit cards to consumers
+- done most production deployments in my company since hiring (353 and counting), using CircleCI pipelines with Docker + Kubernetes, to AWS
 - suggested now widely used company practices (such as an it support slack channel)
-- improved documentation across several key areas of software development
+- improved documentation across several key areas of software development (comments in code, Readme files, GitBook articles, internal and external API documentation with Redocly and OpenAPI)
+
+My expertise is in fintech, SaaS, full-stack, integrations, and web services.
 
 Contact me via one of these ways (or all of them!)
 
@@ -52,6 +54,9 @@ My current skillset includes but isn't limited to:
 | Git | Good | Version Control |
 | GitHub Copilot | Good | AI |
 | Docker, Docker Compose | Good | Containerization |
+| OpenAPI | Good | API documentation |
+| GitBook | Okay | Documentation |
+| Redocly | Okay | API Documentation |
 | Agile software development | Intermediate | Project Management |
 | Software Production | Intermediate | Project Management |
 | DevOps | Okay | Project Management |
