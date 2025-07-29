@@ -19,6 +19,14 @@ In December 2022 I graduated with a bachelor's degree in Software Engineering wi
 
 My intention is to build the greatest solutions with best, ethical, sustainable, and agile practices to accelerate business growth, meet customers' needs, and do more good for the world.
 
+I have:
+- reduced a highly used database call's latency ~75 % from 13 seconds to 1,6 seconds
+- created multiple new API integrations to different partners, boosting direct money flow
+- launched a new product
+- done most production deployments in my company since hiring (353 and counting)
+- suggested now widely used company practices (such as an it support slack channel)
+- improved documentation across several key areas of software development
+
 Contact me via one of these ways (or all of them!)
 
 > elias.peteri+github@hotmail.com
