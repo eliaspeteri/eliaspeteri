@@ -31,7 +31,7 @@ My current skillset includes but isn't limited to:
 | JavaScript | Good | Language |
 | TypeScript | Good | Language |
 | Python | Intermediate | Language |
-| WebAssembly | Okay | Language |
+| WebAssembly / AssemblyScript | Okay | Language |
 | React | Good | Framework |
 | Node.js | Intermediate | Framework |
 | Next.js | Okay | Framework |
