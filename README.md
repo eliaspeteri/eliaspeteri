@@ -1,4 +1,12 @@
+# Hi there 👋
+
+I'm Elias, a software developer specialized in backend and fullstack solutions, particularly in fintech and SaaS, with expertise in TypeScript, Node.js, React, Nest.js, PostgreSQL, Docker, Kubernetes, and AWS.
+
 _Backend & Fullstack Development • Fintech & SaaS • API Integrations • Performance Optimization • CI/CD & DevOps • Technical Documentation_
+
+I’m proactive, solution-oriented, and communicate clearly within teams. I enjoy working collaboratively, learning continuously, and contributing actively to team culture.
+
+Currently, I'm deepening my expertise in cloud-native architectures, serverless technologies, and advanced DevOps practices.
 
 ## Where do I come from?
 
