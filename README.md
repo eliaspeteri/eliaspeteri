@@ -34,7 +34,6 @@ _TypeScript_ • _Node.js_ • _Nest.js_ • _React_ • _PostgreSQL_ • _Docke
 ---
 
 ### 📫 Want to Chat?
-Available for remote work • Open to contract or full-time  
 Connect via [LinkedIn](https://linkedin.com/in/eliaspeteri) or email: **elias.peteri@hotmail.com**  
 
 ---
