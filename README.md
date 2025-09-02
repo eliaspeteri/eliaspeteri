@@ -37,3 +37,6 @@ _TypeScript_ • _Node.js_ • _Nest.js_ • _React_ • _PostgreSQL_ • _Docke
 Connect via [LinkedIn](https://linkedin.com/in/eliaspeteri) or email: **elias.peteri@hotmail.com**  
 
 ---
+### About
+
+Visit [My about page](https://github.com/eliaspeteri/eliaspeteri/blob/main/About.md) for more information about me and me achievements!
