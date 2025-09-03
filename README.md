@@ -39,4 +39,4 @@ Connect via [LinkedIn](https://linkedin.com/in/eliaspeteri) or email: **elias.pe
 ---
 ### About
 
-Visit [My about page](https://github.com/eliaspeteri/eliaspeteri/blob/main/About.md) for more information about me and me achievements!
+Visit my [about page](https://github.com/eliaspeteri/eliaspeteri/blob/main/About.md) for more information about me and me achievements!
