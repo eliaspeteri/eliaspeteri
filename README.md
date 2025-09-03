@@ -14,7 +14,7 @@
 ---
 
 ### 🔧 Stack & Tools  
-_TypeScript_ • _Node.js_ • _Nest.js_ • _React_ • _PostgreSQL_ • _Docker & Kubernetes_ • _AWS (EC2, EKS, RDS)_ • _CircleCI_ • _OpenAPI / Redocly_
+_TypeScript_ • _Node.js_ • _Nest.js_ • _React_ • _PostgreSQL_ • _Docker & Kubernetes_ • _AWS (EC2, EKS, RDS)_ • _CircleCI_ • _OpenAPI / Redocly_ • _Playwright / Jest_
 
 ---
 
