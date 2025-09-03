@@ -69,4 +69,4 @@ Uncomment once you have some roadmaps
 - LinkedIn: [linkedin.com/in/eliaspeteri](https://linkedin.com/in/eliaspeteri)  
 - Blog / Portfolio (coming soon)
 
-*If you're here from the GitHub homepage, navigate back to **README.md** — it’s your 3‑line elevator pitch. You’ll find details here in About.md when you want to dig deeper.*
+*If you're here from the GitHub homepage, navigate back to my [profile](https://github.com/eliaspeteri/eliaspeteri) — it’s your 3‑line elevator pitch. You’ll find details here in About.md when you want to dig deeper.*
