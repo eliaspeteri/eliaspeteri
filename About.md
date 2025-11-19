@@ -13,6 +13,7 @@ Focus on web services, agile team workflows, and real‑world API design.
 - Executed **~300+ production deploys** via Docker/Kubernetes workflows in CircleCI on AWS environment  
 - Launched **3+ third-party integrations** (including finance and insurance partners) moving real flows  
 - Took initiative on docs & processes (written guidance via GitBook + OpenAPI, founded internal IT‑support channel)
+- Partook in projects such as new products, complete internal core business reworks, and implementing strong authentication flow in a short timeline
 
 ### Commu App (Internship), Tampere  
 Summer 2022  
