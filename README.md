@@ -8,7 +8,7 @@
 
 ### 🚀 Key accomplishments
 - **Reduced latency by ~75 %**: rewrote a customer-support API call from ~13 s → 1.6 s using indexed PostgreSQL + query refactor
-- **~300 production deploys**: CircleCI pipelines with Docker‑and‑Kubernetes on AWS (EKS/EC2/RDS)
+- **500+ production deploys**: automated CI/CD pipelines with CircleCI, GitHub Actions, Docker, Kubernetes, AWS
 - **3+ live partner integrations**: credit registers, lenders, and insurance APIs serving real traffic
 
 ---
